@@ -54,7 +54,7 @@ HTML structure • TailwindCSS styling • Custom CSS • JavaScript logic.
 
 🖥️ How to Run This Project
 1. Download or clone the repository
-git clone https://github.com/kr1stn3/myportforlioweb.io
+git clone https://kr1stn3.github.io/myportforlioweb.io/
 
 2. Open the project
 
